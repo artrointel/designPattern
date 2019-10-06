@@ -1,0 +1,2 @@
+﻿  1_temporal_object.cpp
+D:\VisualStudioProjects\DesignPatterns\DesignPatterns\_day3\1_temporal_object.cpp(26,14): error C2106:  '=': 왼쪽 피연산자는 l-value이어야 합니다.
